@@ -1,9 +1,9 @@
 # Curso-PHP-DIO
 
-Repositório destinado a publicação de atividades e projetos do curso PHP, da Digital Innovation One.
+## Repositório destinado a publicação de atividades e projetos do curso PHP, da Digital Innovation One.
 
 
-### Introdução ao PHP.
+###  Introdução ao PHP.
 - Conhecendo a linguagem PHP e seu ecossistema.
 - Aprendendo a lidar com comandos básicos e iniciar o desenvolvimento com linguagem.
 
