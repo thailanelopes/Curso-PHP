@@ -1,5 +1,8 @@
 # Curso-PHP-DIO
 
+
+
+
 ### Introdução ao PHP.
 - Conhecendo a linguagem PHP e seu ecossistema.
 - Aprendendo a lidar com comandos básicos e iniciar o desenvolvimento com linguagem.
