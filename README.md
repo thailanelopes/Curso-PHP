@@ -1,6 +1,6 @@
-# Curso-PHP-DIO
+# Curso-PHP-DIO.
 
-## Repositório destinado a publicação de atividades e projetos do curso PHP, da plataforma Curso em vídeo- Ministrado pelo Gustavo Guanabara.
+## Repositório destinado a publicação de atividades e projetos do curso PHP, da plataforma Curso em vídeo- Ministrado pelo Gustavo Guanabara 
 
 - Aula 1 – História do PHP.
 - Aula 2 – Como funciona o PHP.
@@ -22,3 +22,5 @@
 - Aula 17 – Funções String em PHP (Parte 2).
 - Aula 18 – Vetores e Matrizes – Parte 1.
 - Aula 19 – Vetores e Matrizes – Parte 2.
+
+Jh
