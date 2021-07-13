@@ -1,6 +1,6 @@
 # Curso-PHP
 
-## Repositório destinado a publicação de atividades e projetos do curso PHP do canal Code Easy().
+## Repositório destinado a publicação de atividades e projetos do curso PHP do canal Code Easy(https://www.youtube.com/channel/UC6gA9wS4agoRZToCkNR1DFw).
 
 - Aula 1 – História do PHP.
 - Aula 2 – Como funciona o PHP.
