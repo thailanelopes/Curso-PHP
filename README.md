@@ -9,5 +9,5 @@
 
 # Tecnologias utilizadas
 - PHP 7.4.
-- XAMPP (com PHP 7.4)
+- XAMPP (com PHP 7.4).
 - Editor de Código(VSCode ou Sublime Text)
