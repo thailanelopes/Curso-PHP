@@ -2,9 +2,21 @@
 
 ## Repositório destinado a publicação de atividades e projetos do curso PHP do canal Code Easy(https://www.youtube.com/channel/UC6gA9wS4agoRZToCkNR1DFw)
 
-- Aula 1 – Introdução ao PHP.
-- Aula 2 - Primeiro projeto.
-- Conceitos fundamentais.
+- O que é o PHP?;
+- Configuração do ambiente no Linux;
+Primeiro projeto;
+Variáveis e constantes;
+Tipos de dados;
+Operadores aritméticos;
+Strings;
+Operadores de comparação;
+Operadores lógicos;
+Estruturas condicionais;
+Arrays;
+Estruturas de repetição;
+Funções;
+Projeto prático: Jogo da Velha - parte 1;
+Projeto prático: Jogo da Velha - parte 2;
 
 
 # Tecnologias utilizadas
