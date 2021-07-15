@@ -4,19 +4,19 @@
 
 - O que é o PHP?;
 - Configuração do ambiente no Linux;
-Primeiro projeto;
-Variáveis e constantes;
-Tipos de dados;
-Operadores aritméticos;
-Strings;
-Operadores de comparação;
-Operadores lógicos;
-Estruturas condicionais;
-Arrays;
-Estruturas de repetição;
-Funções;
-Projeto prático: Jogo da Velha - parte 1;
-Projeto prático: Jogo da Velha - parte 2;
+- Primeiro projeto;
+- Variáveis e constantes;
+- Tipos de dados;
+- Operadores aritméticos;
+- Strings;
+- Operadores de comparação;
+- Operadores lógicos;
+- Estruturas condicionais;
+- Arrays;
+- Estruturas de repetição;
+- Funções;
+- Projeto prático: Jogo da Velha - parte 1;
+- Projeto prático: Jogo da Velha - parte 2;
 
 
 # Tecnologias utilizadas
