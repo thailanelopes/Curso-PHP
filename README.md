@@ -5,6 +5,8 @@
 - Aula 1 – Introdução ao PHP.
 - Aula 2 - Primeiro projeto.
 - Conceitos fundamentais.
+
+
 # Tecnologias utilizadas
 - PHP 7.4
 - XAMPP (com PHP 7.4)
