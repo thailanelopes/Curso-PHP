@@ -16,7 +16,7 @@
 - Estruturas de repetição;
 - Funções;
 - Projeto prático: Jogo da Velha - parte 1;
-- Projeto prático: Jogo da Velha - parte 2;
+- Projeto prático: Jogo da Velha - parte 2.
 
 
 # Tecnologias utilizadas
