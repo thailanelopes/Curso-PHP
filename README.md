@@ -1,7 +1,4 @@
 
-# Curso-PHP
-
-Estudos PHP
 
 # Curso-PHP
 
