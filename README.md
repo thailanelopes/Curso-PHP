@@ -1,8 +1,6 @@
 
 # Curso-PHP-DIO.
 
-## Repositório destinado a publicação de atividades e projetos do curso PHP.
-
 Estudos PHP
 
 # Curso-PHP
