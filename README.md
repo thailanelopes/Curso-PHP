@@ -3,9 +3,6 @@
 
 ## Repositório destinado a publicação de atividades e projetos do curso PHP, da plataforma Curso em vídeo- Ministrado pelo Gustavo Guanabara 
 
-- Aula 15 – Rotinas em PHP – Parte 2.
-- Aula 16 – Funções String em PHP (Parte 1).
-- Aula 17 – Funções String em PHP (Parte 2).
 - Aula 18 – Vetores e Matrizes – Parte 1.
 - Aula 19 – Vetores e Matrizes – Parte 2.
 
