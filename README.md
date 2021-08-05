@@ -3,11 +3,6 @@
 
 ## Repositório destinado a publicação de atividades e projetos do curso PHP, da plataforma Curso em vídeo- Ministrado pelo Gustavo Guanabara 
 
-
-
-- Aula 12 – Estrutura de Repetição Do While.
-- Aula 13 – Estrutura de Repetição For.
-- Aula 14 – Rotinas em PHP – Parte 1.
 - Aula 15 – Rotinas em PHP – Parte 2.
 - Aula 16 – Funções String em PHP (Parte 1).
 - Aula 17 – Funções String em PHP (Parte 2).
