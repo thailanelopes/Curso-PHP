@@ -1,5 +1,5 @@
 
-# Curso-PHP-DIO.
+# Curso-PHP-DI
 
 Estudos PHP
 
