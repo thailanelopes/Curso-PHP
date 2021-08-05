@@ -3,9 +3,7 @@
 
 ## Repositório destinado a publicação de atividades e projetos do curso PHP, da plataforma Curso em vídeo- Ministrado pelo Gustavo Guanabara 
 
-- Aula 1 – História do PHP.
-- Aula 2 – Como funciona o PHP.
-- Conteúdo para o Curso de PHP.
+
 - Aula 3 – Como Instalar o PHP.
 - Aula 4 – Variáveis em PHP.
 - Aula 5 – Operadores Aritméticos.
