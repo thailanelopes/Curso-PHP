@@ -3,10 +3,6 @@
 
 ## Repositório destinado a publicação de atividades e projetos do curso PHP, da plataforma Curso em vídeo- Ministrado pelo Gustavo Guanabara 
 
-
-- Aula 3 – Como Instalar o PHP.
-- Aula 4 – Variáveis em PHP.
-- Aula 5 – Operadores Aritméticos.
 - Aula 6 – Operadores de Atribuição.
 - Aula 7 – Operadores Relacionais.
 - Aula 8 – Integração HTML5 + PHP.
