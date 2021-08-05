@@ -3,9 +3,7 @@
 
 ## Repositório destinado a publicação de atividades e projetos do curso PHP, da plataforma Curso em vídeo- Ministrado pelo Gustavo Guanabara 
 
-- Aula 6 – Operadores de Atribuição.
-- Aula 7 – Operadores Relacionais.
-- Aula 8 – Integração HTML5 + PHP.
+
 - Aula 9 – Estrutura Condicional if.
 - Aula 10 – Estrutura Condicional Switch.
 - Aula 11 – Estrutura de Repetição While.
