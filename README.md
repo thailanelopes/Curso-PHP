@@ -1,9 +1,9 @@
 
 # Curso-PHP
 
-## Repositório destinado a publicação de atividades e projetos do curso PHP do canal Code Easy(https://www.youtube.com/channel/UC6gA9wS4agoRZToCkNR1DFw)
+## Repositório destinado a publicação de atividades e projetos do curso PHP do canal Code Easy(https://www.youtube.com/channel/UC6gA9wS4agoRZToCkNR1DFw) e curso completo de PHP Avançado da Udemy.
 
-- O que é o PHP?;
+- O que é o PHP?
 - Configuração do ambiente no Linux;
 - Primeiro projeto;
 - Variáveis e constantes;
